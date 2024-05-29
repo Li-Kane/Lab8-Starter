@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Li-Kane/Lab8-Starter",
+    "short_name": "Kane Li",
     "description": "",
     "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "display": "standalone",
+    "background_color": "blue",
+    "theme_color": "red",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
